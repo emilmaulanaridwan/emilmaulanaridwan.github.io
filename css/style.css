@@ -25,6 +25,13 @@ a {
   margin-bottom: 40px;
 }
 
+.profile-info h2.title {
+  margin: 5px 0 15px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #aaa;
+}
+
 .profile img {
   width: 140px;
   height: 140px;
